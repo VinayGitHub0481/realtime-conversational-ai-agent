@@ -1,14 +1,17 @@
 
 
 #Virtual Environments
+
 venv/
 env/
 .venv/
 venv311/
 
 #Environment Variables
+
 .env
 
+__pycache__/
 
 
 
